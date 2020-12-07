@@ -14,8 +14,12 @@ Features:
 ## ScreenShots
 
 ### Home
+![home_1](https://drive.google.com/file/d/1jGVDZ0Q7Lj4lzp-98_tPffxouJ_pkPki/view?usp=sharing)
+![home_2](https://drive.google.com/file/d/1XBB-aadmcbZ_MwLlHfr2E-FaS10BqbiP/view?usp=sharing)
 
 ### Add / Edit Todo
+![add_todo](https://drive.google.com/file/d/10el5nlrGXADHoZ2eRmdB4HgNGppPui20/view?usp=sharing)
+![edit_todo](https://drive.google.com/file/d/1FC8xm7OCc2n3nGo_2Ymj2p27gwWBxNyu/view?usp=sharing)
 
 ### Todo Descriptions
 
